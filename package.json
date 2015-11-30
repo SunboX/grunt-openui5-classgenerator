@@ -35,5 +35,9 @@
   },
   "keywords": [
     "gruntplugin"
-  ]
+  ],
+  "dependencies": {
+    "inquirer": "^0.11.0",
+    "lodash": "^3.10.1"
+  }
 }
