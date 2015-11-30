@@ -12,17 +12,17 @@ module.exports = function(grunt) {
     grunt.initConfig({
 
         openui5_classgenerator: {
-			default: {
-				options: {
-					namespace: 'app',
-					dest: {
-						controller: 'app/controller',
-						view: 'app/view',
-						controls: 'app/controls',
-					},
-					viewType: 'JS'
-				}
-			}
+            default: {
+                options: {
+                    namespace: 'app',
+                    dest: {
+                        controller: 'app/controller',
+                        view: 'app/view',
+                        controls: 'app/controls',
+                    },
+                    viewType: 'JS'
+                }
+            }
         }
 
     });
