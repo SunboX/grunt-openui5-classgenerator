@@ -1,7 +1,7 @@
 {
   "name": "grunt-openui5-classgenerator",
   "description": "Grunt tasks for SAP OpenUI5 to generate the basic class structure for Views and Components.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/SunboX/grunt-openui5-classgenerator",
   "author": {
     "name": "André Fiedler",
