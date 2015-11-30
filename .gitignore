@@ -1,0 +1,10 @@
+[Tt]humbs.db
+*.DS_Store
+
+/**/node_modules
+/**/npm-debug.log
+/**/tmp
+
+demo/app/controller/*
+demo/app/controls/*
+demo/app/views/*
