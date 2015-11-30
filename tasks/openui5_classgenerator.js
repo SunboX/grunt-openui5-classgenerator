@@ -209,7 +209,7 @@ module.exports = function(grunt) {
                         });
                         break;
                     default:
-                        grunt.fail.warn('The generation of Controls is not implemented.');
+                        grunt.fail.warn('The generation of ' + grunt.config.get('componentType') + ' is not implemented.');
                         // Fail asynchronously.
                         done(false);
                         return;
